@@ -1,6 +1,6 @@
 #  Find Numbers with Even Number of Digits
 
-def findNumbers(nums: List[int]):
+def findNumbers(nums):
     even = 0
     for i in nums:
         count = 0
